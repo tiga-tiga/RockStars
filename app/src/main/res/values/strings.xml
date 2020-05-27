@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Rockstars</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile_name_hint">Your name</string>
+    <string name="save">Save</string>
+    <string name="rockstars">Rockstars</string>
+    <string name="bookmarks">BookMarks</string>
+    <string name="profile">Profile</string>
+    <string name="add_a_picture_text">Add a picture</string>
+</resources>
